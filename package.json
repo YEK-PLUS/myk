@@ -1,0 +1,36 @@
+{
+  "name": "@yek-plus/myk",
+  "version": "1.0.0",
+  "description": "MYK connector",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YEK-PLUS/myk.git"
+  },
+  "keywords": [
+    "myk"
+  ],
+  "author": "YEK-PLUS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YEK-PLUS/myk/issues"
+  },
+  "homepage": "https://github.com/YEK-PLUS/myk#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.24.2"
+  },
+  "dependencies": {
+    "html-soup": "^2.0.0",
+    "html2json": "^1.0.2",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.10.1"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
