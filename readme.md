@@ -38,7 +38,7 @@ myk()
 ### Response
 
 ```js
-{
+const response = {
   status: Boolean,
   tckNo: String,
   tamIsim: String,
