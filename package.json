@@ -1,6 +1,6 @@
 {
   "name": "@yek-plus/myk",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MYK connector",
   "main": "lib/index.js",
   "scripts": {
